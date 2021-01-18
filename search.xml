@@ -135,6 +135,11 @@
       </tags>
   </entry>
   <entry>
+    <title>test</title>
+    <url>/2021/01/18/test/</url>
+    <content><![CDATA[<h3 id="just-for-test"><a href="#just-for-test" class="headerlink" title="just for test"></a>just for test</h3>]]></content>
+  </entry>
+  <entry>
     <title>Vue 使用过程中遇到的坑</title>
     <url>/2020/03/12/vue-element/</url>
     <content><![CDATA[<h4 id="DOM-使用"><a href="#DOM-使用" class="headerlink" title="DOM 使用"></a>DOM 使用</h4><h5 id="同一个组件中两个-form-表单相互影响"><a href="#同一个组件中两个-form-表单相互影响" class="headerlink" title="同一个组件中两个 form 表单相互影响"></a>同一个组件中两个 form 表单相互影响</h5><p>问题描述：同一个组件中，两个 v-if 的 form 表单，共享某个检验规则，prop 值不同，但其中一个的规则检验提示也会在另一个表单显示。<br>解决：给两个表单分别加 key 值。<br>原因：没有这个属性的时候， vue 应用 in-place patch（就地复用）策略。一般的作用在列表里的顺序发生改变的时候，比如 shuffle（列表打乱）的时候，vue 为了提升性能，不会移动 dom 元素，只是更新相应元素的内容节点。<br>而在 v-if 中，切换 DOM 结构时也可以用来打破复用。</p>
@@ -159,10 +164,5 @@
       <tags>
         <tag>webpack</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>test</title>
-    <url>/2021/01/18/test/</url>
-    <content><![CDATA[<h3 id="just-for-test"><a href="#just-for-test" class="headerlink" title="just for test"></a>just for test</h3>]]></content>
   </entry>
 </search>
