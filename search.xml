@@ -114,6 +114,19 @@
       </tags>
   </entry>
   <entry>
+    <title>webpack 使用</title>
+    <url>/2020/01/10/webpack/</url>
+    <content><![CDATA[<h3 id="wepback"><a href="#wepback" class="headerlink" title="wepback"></a>wepback</h3><h5 id="webpack-原理"><a href="#webpack-原理" class="headerlink" title="webpack 原理"></a>webpack 原理</h5><p>推荐一个通俗易懂的入门视频：<br><a href="https://www.youtube.com/watch?v=Gc9-7PBqOC8&list=LLHK1mTHpwrUeYgF5gu-Kd4g" target="_blank" rel="noopener">Build Your Own Webpack</a></p>
+<a id="more"></a> 
+]]></content>
+      <categories>
+        <category>技术</category>
+      </categories>
+      <tags>
+        <tag>webpack</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Taro 使用过程中遇到的坑</title>
     <url>/2019/08/30/taro-bugs/</url>
     <content><![CDATA[<h4 id="Taro-简介"><a href="#Taro-简介" class="headerlink" title="Taro 简介"></a>Taro 简介</h4><p>Taro 是京东凹凸实验室的多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信/百度/字节跳动/支付宝/ QQ 小程序、快应用、 H5 、 React Native 等平台的应用。（<del>官方说法</del>）<br>产品要求同时开发 H5 和 小程序，我们考虑到维护和开发效率的问题，决定选择多端统一的开发框架，比较了下目前开源的一些框架，选择了最为可靠的 Taro （<del>嗯，就是 star 数最多</del>）。</p>
@@ -145,19 +158,6 @@
       </categories>
       <tags>
         <tag>Taro</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>webpack 使用</title>
-    <url>/2020/01/10/webpack/</url>
-    <content><![CDATA[<h3 id="wepback"><a href="#wepback" class="headerlink" title="wepback"></a>wepback</h3><h5 id="webpack-原理"><a href="#webpack-原理" class="headerlink" title="webpack 原理"></a>webpack 原理</h5><p>推荐一个通俗易懂的入门视频：<br><a href="https://www.youtube.com/watch?v=Gc9-7PBqOC8&list=LLHK1mTHpwrUeYgF5gu-Kd4g" target="_blank" rel="noopener">Build Your Own Webpack</a></p>
-<a id="more"></a> 
-]]></content>
-      <categories>
-        <category>技术</category>
-      </categories>
-      <tags>
-        <tag>webpack</tag>
       </tags>
   </entry>
   <entry>
