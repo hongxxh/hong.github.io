@@ -135,9 +135,17 @@
       </tags>
   </entry>
   <entry>
-    <title>test</title>
-    <url>/2021/01/18/test/</url>
-    <content><![CDATA[<h3 id="just-for-test"><a href="#just-for-test" class="headerlink" title="just for test"></a>just for test</h3>]]></content>
+    <title>webpack 使用</title>
+    <url>/2020/01/10/webpack/</url>
+    <content><![CDATA[<h3 id="wepback"><a href="#wepback" class="headerlink" title="wepback"></a>wepback</h3><h5 id="webpack-原理"><a href="#webpack-原理" class="headerlink" title="webpack 原理"></a>webpack 原理</h5><p>推荐一个通俗易懂的入门视频：<br><a href="https://www.youtube.com/watch?v=Gc9-7PBqOC8&list=LLHK1mTHpwrUeYgF5gu-Kd4g" target="_blank" rel="noopener">Build Your Own Webpack</a></p>
+<a id="more"></a> 
+]]></content>
+      <categories>
+        <category>技术</category>
+      </categories>
+      <tags>
+        <tag>webpack</tag>
+      </tags>
   </entry>
   <entry>
     <title>Vue 使用过程中遇到的坑</title>
@@ -153,16 +161,8 @@
       </tags>
   </entry>
   <entry>
-    <title>webpack 使用</title>
-    <url>/2020/01/10/webpack/</url>
-    <content><![CDATA[<h3 id="wepback"><a href="#wepback" class="headerlink" title="wepback"></a>wepback</h3><h5 id="webpack-原理"><a href="#webpack-原理" class="headerlink" title="webpack 原理"></a>webpack 原理</h5><p>推荐一个通俗易懂的入门视频：<br><a href="https://www.youtube.com/watch?v=Gc9-7PBqOC8&list=LLHK1mTHpwrUeYgF5gu-Kd4g" target="_blank" rel="noopener">Build Your Own Webpack</a></p>
-<a id="more"></a> 
-]]></content>
-      <categories>
-        <category>技术</category>
-      </categories>
-      <tags>
-        <tag>webpack</tag>
-      </tags>
+    <title>test</title>
+    <url>/2021/01/18/test/</url>
+    <content><![CDATA[<h3 id="just-for-test"><a href="#just-for-test" class="headerlink" title="just for test"></a>just for test</h3>]]></content>
   </entry>
 </search>
