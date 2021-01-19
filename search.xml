@@ -101,6 +101,11 @@
       </tags>
   </entry>
   <entry>
+    <title>test11111111</title>
+    <url>/2021/01/19/test11111111/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
     <title>Taro 使用过程中遇到的坑</title>
     <url>/2019/08/30/taro-bugs/</url>
     <content><![CDATA[<h4 id="Taro-简介"><a href="#Taro-简介" class="headerlink" title="Taro 简介"></a>Taro 简介</h4><p>Taro 是京东凹凸实验室的多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信/百度/字节跳动/支付宝/ QQ 小程序、快应用、 H5 、 React Native 等平台的应用。（<del>官方说法</del>）<br>产品要求同时开发 H5 和 小程序，我们考虑到维护和开发效率的问题，决定选择多端统一的开发框架，比较了下目前开源的一些框架，选择了最为可靠的 Taro （<del>嗯，就是 star 数最多</del>）。</p>
